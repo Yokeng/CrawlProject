@@ -1,0 +1,2 @@
+# CrawlProject
+In this project, the renting information of Beijing Fangtianxia website is taken as the object of crawling. After learning and analyzing the implementation principle of current crawler technology, crawling strategy, and the operation of the process, the Scrapy framework is used to complete the task of crawling the target object and use it. The sklearn training data is given a linear regression model that uses the model to predict the price of the rental.
